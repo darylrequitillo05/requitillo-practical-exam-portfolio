@@ -1,0 +1,11 @@
+1. What is backend development?
+Answer: The backend is the engine of a web application—processing input, managing 
+resources, and delivering output to the client
+
+2. Give 2 examples of backend frameworks.
+Answer: * Django (Python) 
+        * Express.js (Node.js)
+
+3. What is an API?
+Answer: Provide a communication bridge between frontend and backend, or 
+between backend and external services.
